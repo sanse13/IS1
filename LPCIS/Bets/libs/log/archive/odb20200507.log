@@ -1,0 +1,357 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:42:42 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 22-22)
+
+[2020-05-07 00:42:42 #2 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 18120@Marcos
+
+[2020-05-07 00:42:42 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:42:42 #4 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:42:42 #5 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:42:42 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:42:42 #7 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:42:42 #8 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:42:42 #9 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:45:12 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 8464@Marcos
+
+[2020-05-07 00:45:12 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:45:12 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:45:12 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:45:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:45:12 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:45:12 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:45:12 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:45:29 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 17716@Marcos
+
+[2020-05-07 00:45:29 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:45:29 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:45:29 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:45:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:45:29 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:45:29 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:45:29 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:45:51 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 8756@Marcos
+
+[2020-05-07 00:45:51 #2 type.registry] 
+New type domain.Usuario
+
+[2020-05-07 00:45:51 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:45:51 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-05-07 00:45:51 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-05-07 00:45:51 #6 type.registry] 
+New type domain.Monedero
+
+[2020-05-07 00:45:51 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:45:51 #8 type.registry] 
+New type domain.Event
+
+[2020-05-07 00:45:51 #9 type.registry] 
+New type domain.Pronostico
+
+[2020-05-07 00:45:51 #10 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:45:51 #11 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:45:51 #12 type.registry] 
+New type domain.Question
+
+[2020-05-07 00:45:51 #13 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-05-07 00:45:51 #14 type.registry] 
+New type domain.Deporte
+
+[2020-05-07 00:45:51 #15 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:45:51 #16 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:45:51 #17 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-05-07 00:45:51 #18 type] 
+Type domain.Deporte is not enhanced.
+
+[2020-05-07 00:45:51 #19 type.registry] 
+New type java.util.Vector<domain.Event>
+
+[2020-05-07 00:45:51 #20 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:46:06 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 1-5)
+
+[2020-05-07 00:46:06 #2 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 19024@Marcos
+
+[2020-05-07 00:46:06 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:46:06 #4 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:46:06 #5 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:46:06 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:46:06 #7 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:46:06 #8 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:46:06 #9 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:47:13 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 12264@Marcos
+
+[2020-05-07 00:47:13 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:47:13 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:47:13 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:47:13 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:47:13 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:47:13 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:47:13 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:48:58 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 4596@Marcos
+
+[2020-05-07 00:48:58 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:48:58 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:48:58 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:48:58 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:48:58 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:48:58 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:48:58 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 00:55:52 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 18984@Marcos
+
+[2020-05-07 00:55:52 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 00:55:52 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 00:55:52 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 00:55:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 00:55:52 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 00:55:52 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 00:55:52 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 01:15:48 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 6-6)
+
+[2020-05-07 01:15:48 #2 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 18936@Marcos
+
+[2020-05-07 01:15:48 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 01:15:48 #4 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 01:15:48 #5 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 01:15:48 #6 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 01:15:48 #7 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 01:15:48 #8 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 01:15:48 #9 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 01:18:18 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 18840@Marcos
+
+[2020-05-07 01:18:18 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 01:18:18 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 01:18:18 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 01:18:18 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 01:18:18 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 01:18:18 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 01:18:18 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 01:23:16 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 4048@Marcos
+
+[2020-05-07 01:23:16 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 01:23:16 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 01:23:16 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 01:23:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 01:23:16 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 01:23:16 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 01:23:16 #8 type] 
+Type domain.Deporte is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-05-07 01:31:10 #1 store] 
+Database 'C:\Users\marko\git\LPCIS\Bets\resources\bets.temp' is opened by 18772@Marcos
+
+[2020-05-07 01:31:10 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-05-07 01:31:10 #3 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-05-07 01:31:10 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-05-07 01:31:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-05-07 01:31:10 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-05-07 01:31:10 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-05-07 01:31:10 #8 type] 
+Type domain.Deporte is not enhanced.
+

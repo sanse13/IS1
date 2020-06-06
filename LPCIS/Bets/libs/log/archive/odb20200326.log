@@ -1,0 +1,1484 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:32:55 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 8016@DESKTOP-9ERLLO7
+
+[2020-03-26 19:32:55 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:32:55 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:32:55 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:32:55 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:32:55 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:32:55 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:32:55 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:32:55 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:32:55 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:32:55 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:32:55 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:32:55 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:32:55 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:32:55 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:32:55 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:32:55 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:36:12 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 7044@DESKTOP-9ERLLO7
+
+[2020-03-26 19:36:13 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:36:13 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:36:13 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:36:13 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:36:13 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:36:13 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:36:13 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:36:13 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:36:13 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:36:13 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:36:13 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:36:13 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:36:13 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:36:13 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:36:13 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:36:13 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:40:02 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 3988@DESKTOP-9ERLLO7
+
+[2020-03-26 19:40:02 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:40:02 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:40:02 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:40:02 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:40:02 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:40:02 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:40:02 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:40:02 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:40:02 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:40:02 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:40:02 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:40:02 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:40:02 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:40:02 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:40:02 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:40:02 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:41:38 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 10216@DESKTOP-9ERLLO7
+
+[2020-03-26 19:41:38 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:41:38 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:41:38 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:41:38 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:41:38 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:41:38 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:41:38 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:41:38 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:41:38 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:41:38 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:41:38 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:41:38 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:41:38 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:41:38 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:41:38 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:41:38 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:42:23 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 4668@DESKTOP-9ERLLO7
+
+[2020-03-26 19:42:23 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:42:23 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:42:23 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:42:24 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:42:24 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:42:24 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:42:24 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:42:24 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:42:24 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:42:24 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:42:24 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:42:24 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:42:24 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:42:24 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:42:24 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:42:24 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:51:52 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 13908@DESKTOP-9ERLLO7
+
+[2020-03-26 19:51:53 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:51:53 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:51:53 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:51:53 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:51:53 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:51:53 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:51:53 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:51:53 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:51:53 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:51:53 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:51:53 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:51:53 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:51:53 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:51:53 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:51:53 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:51:53 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:52:50 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 1448@DESKTOP-9ERLLO7
+
+[2020-03-26 19:52:51 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:52:51 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:52:51 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:52:51 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:52:51 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:52:51 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:52:51 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:52:51 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:52:51 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:52:51 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:52:51 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:52:51 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:52:51 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:52:51 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:52:51 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:52:51 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 19:55:13 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 14548@DESKTOP-9ERLLO7
+
+[2020-03-26 19:55:14 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 19:55:14 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 19:55:14 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 19:55:14 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 19:55:14 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 19:55:14 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 19:55:14 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 19:55:14 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 19:55:14 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 19:55:14 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 19:55:14 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 19:55:14 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 19:55:14 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 19:55:14 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 19:55:14 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 19:55:14 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 20:19:13 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 3576@DESKTOP-9ERLLO7
+
+[2020-03-26 20:19:14 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 20:19:14 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 20:19:14 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 20:19:14 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 20:19:14 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 20:19:14 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 20:19:14 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 20:19:14 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 20:19:14 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 20:19:14 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 20:19:14 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 20:19:14 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 20:19:14 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 20:19:14 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 20:19:14 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 20:19:14 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 20:27:38 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 13376@DESKTOP-9ERLLO7
+
+[2020-03-26 20:27:38 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 20:27:38 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 20:27:38 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 20:27:38 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 20:27:38 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 20:27:38 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 20:27:38 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 20:27:38 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 20:27:38 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 20:27:38 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 20:27:38 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 20:27:38 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 20:27:38 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 20:27:38 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 20:27:38 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 20:27:38 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 20:34:09 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 9784@DESKTOP-9ERLLO7
+
+[2020-03-26 20:34:09 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 20:34:09 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 20:34:09 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 20:34:09 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 20:34:09 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 20:34:09 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 20:34:09 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 20:34:09 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 20:34:09 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 20:34:09 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 20:34:09 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 20:34:09 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 20:34:09 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 20:34:09 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 20:34:09 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 20:34:09 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 20:36:03 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 16964@DESKTOP-9ERLLO7
+
+[2020-03-26 20:36:03 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 20:36:03 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 20:36:03 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 20:36:03 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 20:36:03 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 20:36:03 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 20:36:03 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 20:36:03 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 20:36:03 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 20:36:03 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 20:36:03 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 20:36:03 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 20:36:03 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 20:36:03 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 20:36:03 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 20:36:03 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 20:36:47 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 16900@DESKTOP-9ERLLO7
+
+[2020-03-26 20:36:48 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 20:36:48 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 20:36:48 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 20:36:48 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 20:36:48 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 20:36:48 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 20:36:48 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 20:36:48 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 20:36:48 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 20:36:48 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 20:36:48 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 20:36:48 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 20:36:48 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 20:36:48 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 20:36:48 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 20:36:48 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:15:03 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 15508@DESKTOP-9ERLLO7
+
+[2020-03-26 21:15:03 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:15:03 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:15:03 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:15:03 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:15:03 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:15:03 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:15:03 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:15:03 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:15:03 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:15:03 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:15:03 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:15:03 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:15:03 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:15:03 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:15:03 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:15:03 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:15:54 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 14816@DESKTOP-9ERLLO7
+
+[2020-03-26 21:15:54 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:15:54 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:15:54 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:15:54 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:15:54 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:15:54 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:15:54 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:15:54 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:15:54 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:15:54 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:15:54 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:15:54 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:15:54 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:15:54 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:15:54 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:15:54 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:16:48 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 1584@DESKTOP-9ERLLO7
+
+[2020-03-26 21:16:49 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:16:49 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:16:49 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:16:49 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:16:49 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:16:49 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:16:49 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:16:49 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:16:49 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:16:49 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:16:49 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:16:49 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:16:49 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:16:49 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:16:49 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:16:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:18:13 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 8352@DESKTOP-9ERLLO7
+
+[2020-03-26 21:18:14 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:18:14 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:18:14 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:18:14 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:18:14 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:18:14 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:18:14 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:18:14 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:18:14 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:18:14 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:18:14 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:18:14 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:18:14 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:18:14 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:18:14 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:18:14 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:19:39 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 10260@DESKTOP-9ERLLO7
+
+[2020-03-26 21:19:40 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:19:40 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:19:40 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:19:40 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:19:40 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:19:40 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:19:40 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:19:40 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:19:40 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:19:40 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:19:40 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:19:40 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:19:40 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:19:40 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:19:40 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:19:40 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:21:58 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 9432@DESKTOP-9ERLLO7
+
+[2020-03-26 21:21:58 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:21:58 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:21:58 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:21:58 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:21:58 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:21:58 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:21:58 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:21:58 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:21:58 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:21:58 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:21:58 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:21:58 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:21:58 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:21:58 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:21:58 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:21:58 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:23:39 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 17272@DESKTOP-9ERLLO7
+
+[2020-03-26 21:23:39 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:23:39 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:23:39 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:23:40 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:23:40 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:23:40 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:23:40 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:23:40 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:23:40 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:23:40 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:23:40 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:23:40 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:23:40 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:23:40 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:23:40 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:23:40 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:25:17 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 14460@DESKTOP-9ERLLO7
+
+[2020-03-26 21:25:18 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:25:18 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:25:18 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:25:18 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:25:18 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:25:18 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:25:18 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:25:18 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:25:18 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:25:18 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:25:18 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:25:18 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:25:18 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:25:18 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:25:18 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:25:18 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:28:43 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 2336@DESKTOP-9ERLLO7
+
+[2020-03-26 21:28:44 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:28:44 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:28:44 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:28:44 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:28:44 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:28:44 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:28:44 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:28:44 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:28:44 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:28:44 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:28:44 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:28:44 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:28:44 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:28:44 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:28:44 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:28:44 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:30:30 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 16652@DESKTOP-9ERLLO7
+
+[2020-03-26 21:30:31 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:30:31 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:30:31 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:30:31 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:30:31 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:30:31 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:30:31 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:30:31 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:30:31 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:30:31 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:30:31 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:30:31 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:30:31 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:30:31 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:30:31 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:30:31 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:32:34 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 12648@DESKTOP-9ERLLO7
+
+[2020-03-26 21:32:35 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:32:35 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:32:35 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:32:35 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:32:35 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:32:35 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:32:35 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:32:35 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:32:35 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:32:35 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:32:35 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:32:35 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:32:35 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:32:35 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:32:35 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:32:35 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:33:06 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 13236@DESKTOP-9ERLLO7
+
+[2020-03-26 21:33:07 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:33:07 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:33:07 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:33:07 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:33:07 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:33:07 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:33:07 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:33:07 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:33:07 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:33:07 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:33:07 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:33:07 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:33:07 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:33:07 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:33:07 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:33:07 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:34:35 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 11928@DESKTOP-9ERLLO7
+
+[2020-03-26 21:34:36 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:34:36 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:34:36 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:34:36 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:34:36 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:34:36 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:34:36 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:34:36 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:34:36 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:34:36 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:34:36 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:34:36 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:34:36 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:34:36 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:34:36 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:34:36 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:39:24 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 12344@DESKTOP-9ERLLO7
+
+[2020-03-26 21:39:25 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:39:25 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:39:25 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:39:25 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:39:25 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:39:25 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:39:25 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:39:25 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:39:25 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:39:25 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:39:25 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:39:25 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:39:25 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:39:25 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:39:25 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:39:25 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-26 21:40:48 #1 store] 
+Database 'C:\Users\unais\Desktop\bets-workspace\LPCIS\Bets\resources\bets.temp' is opened by 540@DESKTOP-9ERLLO7
+
+[2020-03-26 21:40:49 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-26 21:40:49 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-26 21:40:49 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-26 21:40:49 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-26 21:40:49 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-26 21:40:49 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-26 21:40:49 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-26 21:40:49 #9 type.registry] 
+New type domain.Question
+
+[2020-03-26 21:40:49 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-26 21:40:49 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-26 21:40:49 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-26 21:40:49 #13 type.registry] 
+New type domain.Event
+
+[2020-03-26 21:40:49 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-26 21:40:49 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-26 21:40:49 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-26 21:40:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

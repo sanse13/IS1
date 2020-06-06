@@ -1,0 +1,530 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 18:18:14 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10087@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 18:18:14 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 18:18:14 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 18:18:14 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 18:18:14 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 18:18:14 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 18:18:14 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 18:18:14 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 18:18:14 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 18:18:14 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 18:18:14 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 18:18:14 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 18:18:14 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 18:18:14 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 18:18:14 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 18:18:14 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 18:18:14 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 18:37:56 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10198@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 18:37:56 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 18:37:56 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 18:37:56 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 18:37:56 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 18:37:56 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 18:37:56 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 18:37:56 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 18:37:56 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 18:37:56 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 18:37:56 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 18:37:56 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 18:37:56 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 18:37:56 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 18:37:56 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 18:37:56 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 18:37:56 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 18:40:36 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10200@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 18:40:37 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 18:40:37 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 18:40:37 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 18:40:37 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 18:40:37 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 18:40:37 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 18:40:37 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 18:40:37 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 18:40:37 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 18:40:37 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 18:40:37 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 18:40:37 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 18:40:37 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 18:40:37 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 18:40:37 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 18:40:37 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:10:05 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10244@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:10:05 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:10:05 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:10:05 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:10:05 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:10:05 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:10:05 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:10:05 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:10:05 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:10:05 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:10:05 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:10:05 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:10:05 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:10:05 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:10:05 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:10:05 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:10:05 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:10:45 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10248@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:10:45 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:10:45 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:10:45 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:10:45 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:10:45 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:10:45 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:10:45 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:10:45 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:10:45 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:10:45 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:10:45 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:10:45 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:10:45 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:10:45 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:10:45 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:10:45 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:19:03 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10260@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:19:04 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:19:04 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:19:04 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:19:04 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:19:04 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:19:04 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:19:04 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:19:04 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:19:04 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:19:04 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:19:04 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:19:04 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:19:04 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:19:04 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:19:04 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:19:04 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:22:41 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10263@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:22:41 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:22:41 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:22:41 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:22:41 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:22:41 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:22:41 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:22:41 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:22:41 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:22:41 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:22:41 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:22:41 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:22:41 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:22:41 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:22:41 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:22:41 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:22:41 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:26:50 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10265@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:26:50 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:26:50 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:26:50 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:26:50 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:26:50 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:26:50 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:26:50 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:26:50 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:26:50 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:26:50 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:26:50 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:26:50 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:26:50 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:26:50 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:26:50 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:26:50 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:27:31 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10268@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:27:31 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:27:31 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:27:31 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:27:31 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:27:31 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:27:31 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:27:31 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:27:31 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:27:31 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:27:31 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:27:31 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:27:31 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:27:31 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:27:31 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:27:31 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:27:31 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-29 19:30:01 #1 store] 
+Database '/Users/haizea/Desktop/ISFM/Bets/resources/bets.temp' is opened by 10270@MacBook-Pro-de-Haizea.local
+
+[2020-03-29 19:30:02 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-29 19:30:02 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-29 19:30:02 #4 type.registry] 
+New type domain.Apuesta
+
+[2020-03-29 19:30:02 #5 type.registry] 
+New type java.util.Vector<domain.Apuesta>
+
+[2020-03-29 19:30:02 #6 type.registry] 
+New type domain.Monedero
+
+[2020-03-29 19:30:02 #7 type] 
+Type domain.Apuesta is not enhanced.
+
+[2020-03-29 19:30:02 #8 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-29 19:30:02 #9 type.registry] 
+New type domain.Question
+
+[2020-03-29 19:30:02 #10 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-29 19:30:02 #11 type.registry] 
+New type domain.Pronostico
+
+[2020-03-29 19:30:02 #12 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-29 19:30:02 #13 type.registry] 
+New type domain.Event
+
+[2020-03-29 19:30:02 #14 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-29 19:30:02 #15 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-29 19:30:02 #16 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-29 19:30:02 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

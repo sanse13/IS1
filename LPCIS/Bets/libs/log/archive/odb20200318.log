@@ -1,0 +1,801 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 12:24:35 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 1420@DESKTOP-9ERLLO7
+
+[2020-03-18 12:24:35 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-18 12:24:35 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 12:24:35 #4 type.registry] 
+New type domain.Question
+
+[2020-03-18 12:24:35 #5 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 12:24:35 #6 type.registry] 
+New type domain.Pronostico
+
+[2020-03-18 12:24:35 #7 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-18 12:24:35 #8 type.registry] 
+New type domain.Event
+
+[2020-03-18 12:24:35 #9 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 12:24:35 #10 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-18 12:24:35 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-18 12:24:35 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 12:25:30 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 14644@DESKTOP-9ERLLO7
+
+[2020-03-18 12:25:30 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-18 12:25:30 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 12:25:30 #4 type.registry] 
+New type domain.Question
+
+[2020-03-18 12:25:30 #5 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 12:25:30 #6 type.registry] 
+New type domain.Pronostico
+
+[2020-03-18 12:25:30 #7 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-18 12:25:30 #8 type.registry] 
+New type domain.Event
+
+[2020-03-18 12:25:30 #9 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 12:25:30 #10 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-18 12:25:30 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-18 12:25:30 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 12:28:56 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 9264@DESKTOP-9ERLLO7
+
+[2020-03-18 12:28:56 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-18 12:28:56 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 12:28:56 #4 type.registry] 
+New type domain.Question
+
+[2020-03-18 12:28:56 #5 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 12:28:56 #6 type.registry] 
+New type domain.Pronostico
+
+[2020-03-18 12:28:56 #7 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-18 12:28:56 #8 type.registry] 
+New type domain.Event
+
+[2020-03-18 12:28:56 #9 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 12:28:56 #10 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-18 12:28:56 #11 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-18 12:28:56 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 12:30:35 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 1-6)
+
+[2020-03-18 12:30:35 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 788@DESKTOP-9ERLLO7
+
+[2020-03-18 12:30:36 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 12:30:36 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 12:30:36 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 12:30:36 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 12:38:24 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 3208@DESKTOP-9ERLLO7
+
+[2020-03-18 12:38:24 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 12:38:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 12:38:24 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 12:38:24 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 12:39:40 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 7-8)
+
+[2020-03-18 12:39:40 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 2464@DESKTOP-9ERLLO7
+
+[2020-03-18 12:39:41 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 12:39:41 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 12:39:41 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 12:39:41 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 13:01:43 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 9-11)
+
+[2020-03-18 13:01:43 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 13924@DESKTOP-9ERLLO7
+
+[2020-03-18 13:01:43 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 13:01:43 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 13:01:43 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 13:01:43 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 13:09:00 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 12-12)
+
+[2020-03-18 13:09:01 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 12552@DESKTOP-9ERLLO7
+
+[2020-03-18 13:09:01 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 13:09:01 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 13:09:01 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 13:09:01 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:29:21 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 15324@DESKTOP-9ERLLO7
+
+[2020-03-18 14:29:21 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:29:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:29:21 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:29:21 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:39:12 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 7368@DESKTOP-9ERLLO7
+
+[2020-03-18 14:39:12 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:39:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:39:12 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:39:12 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:40:21 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 8736@DESKTOP-9ERLLO7
+
+[2020-03-18 14:40:22 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:40:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:40:22 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:40:22 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:41:02 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 7556@DESKTOP-9ERLLO7
+
+[2020-03-18 14:41:03 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:41:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:41:03 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:41:03 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:43:12 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 1500@DESKTOP-9ERLLO7
+
+[2020-03-18 14:43:12 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:43:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:43:12 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:43:12 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:44:12 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 460@DESKTOP-9ERLLO7
+
+[2020-03-18 14:44:12 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:44:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:44:12 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:44:12 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 14:44:41 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 13244@DESKTOP-9ERLLO7
+
+[2020-03-18 14:44:41 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 14:44:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 14:44:41 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 14:44:41 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 16:59:47 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 16540@DESKTOP-9ERLLO7
+
+[2020-03-18 16:59:47 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 16:59:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 16:59:47 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 16:59:47 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 17:00:21 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 8684@DESKTOP-9ERLLO7
+
+[2020-03-18 17:00:22 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 17:00:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 17:00:22 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 17:00:22 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 17:17:47 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 11220@DESKTOP-9ERLLO7
+
+[2020-03-18 17:17:48 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 17:17:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 17:17:48 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 17:17:48 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 17:31:41 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 3980@DESKTOP-9ERLLO7
+
+[2020-03-18 17:31:41 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 17:31:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 17:31:41 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 17:31:41 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 17:43:12 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 13-13)
+
+[2020-03-18 17:43:12 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 16696@DESKTOP-9ERLLO7
+
+[2020-03-18 17:43:12 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 17:43:12 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 17:43:12 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 17:43:12 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 17:47:25 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 14-14)
+
+[2020-03-18 17:47:25 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 12060@DESKTOP-9ERLLO7
+
+[2020-03-18 17:47:26 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 17:47:26 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 17:47:26 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 17:47:26 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 18:49:30 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 16688@DESKTOP-9ERLLO7
+
+[2020-03-18 18:49:30 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 18:49:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 18:49:31 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 18:49:31 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:05:16 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 2940@DESKTOP-9ERLLO7
+
+[2020-03-18 19:05:16 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:05:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:05:16 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:05:16 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:10:10 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 12116@DESKTOP-9ERLLO7
+
+[2020-03-18 19:10:10 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:10:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:10:10 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:10:10 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:12:02 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 456@DESKTOP-9ERLLO7
+
+[2020-03-18 19:12:03 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:12:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:12:03 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:12:03 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:23:18 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 2096@DESKTOP-9ERLLO7
+
+[2020-03-18 19:23:18 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:23:18 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:23:18 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:23:19 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:24:30 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 9936@DESKTOP-9ERLLO7
+
+[2020-03-18 19:24:30 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:24:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:24:30 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:24:30 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:26:19 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 5324@DESKTOP-9ERLLO7
+
+[2020-03-18 19:26:19 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:26:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:26:19 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:26:19 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:39:44 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 4832@DESKTOP-9ERLLO7
+
+[2020-03-18 19:39:45 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:39:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:39:45 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:39:45 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:41:04 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 5968@DESKTOP-9ERLLO7
+
+[2020-03-18 19:41:05 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:41:05 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:41:05 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:41:05 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:42:52 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 15876@DESKTOP-9ERLLO7
+
+[2020-03-18 19:42:52 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:42:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:42:52 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:42:52 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:47:54 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 6756@DESKTOP-9ERLLO7
+
+[2020-03-18 19:47:54 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:47:54 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:47:54 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:47:54 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 19:59:37 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 7224@DESKTOP-9ERLLO7
+
+[2020-03-18 19:59:37 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 19:59:37 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 19:59:37 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 19:59:37 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:14:38 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 17168@DESKTOP-9ERLLO7
+
+[2020-03-18 20:14:38 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:14:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:14:38 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:14:38 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:32:31 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 2360@DESKTOP-9ERLLO7
+
+[2020-03-18 20:32:31 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:32:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:32:31 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:32:31 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:36:21 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 10244@DESKTOP-9ERLLO7
+
+[2020-03-18 20:36:21 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:36:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:36:21 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:36:21 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:41:20 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 10164@DESKTOP-9ERLLO7
+
+[2020-03-18 20:41:20 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:41:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:41:20 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:41:20 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:44:30 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 5484@DESKTOP-9ERLLO7
+
+[2020-03-18 20:44:30 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:44:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:44:30 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:44:30 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:45:17 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 15-15)
+
+[2020-03-18 20:45:17 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 11724@DESKTOP-9ERLLO7
+
+[2020-03-18 20:45:18 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:45:18 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:45:18 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:45:18 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:46:43 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 5500@DESKTOP-9ERLLO7
+
+[2020-03-18 20:46:43 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:46:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:46:43 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:46:43 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:47:50 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 16520@DESKTOP-9ERLLO7
+
+[2020-03-18 20:47:50 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:47:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:47:50 #4 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:47:50 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-18 20:48:20 #1 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' has been recovered (tr. 16-16)
+
+[2020-03-18 20:48:20 #2 store] 
+Database 'C:\Users\unais\git\LPCIS\Bets\resources\bets.temp' is opened by 4856@DESKTOP-9ERLLO7
+
+[2020-03-18 20:48:20 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-18 20:48:20 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-18 20:48:20 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-18 20:48:20 #6 type] 
+Type domain.Event is not enhanced.
+

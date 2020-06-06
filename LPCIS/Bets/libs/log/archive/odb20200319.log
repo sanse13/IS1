@@ -1,0 +1,734 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:13:39 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' has been recovered (tr. 17-17)
+
+[2020-03-19 17:13:39 #2 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 14784@Marcos
+
+[2020-03-19 17:13:39 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:13:39 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:13:39 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:13:39 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:23:42 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 16688@Marcos
+
+[2020-03-19 17:23:42 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-19 17:23:42 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:23:42 #4 type.registry] 
+New type domain.Monedero
+
+[2020-03-19 17:23:42 #5 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:23:42 #6 type.registry] 
+New type domain.Question
+
+[2020-03-19 17:23:42 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:23:42 #8 type.registry] 
+New type domain.Pronostico
+
+[2020-03-19 17:23:42 #9 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-19 17:23:42 #10 type.registry] 
+New type domain.Event
+
+[2020-03-19 17:23:42 #11 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:23:42 #12 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 17:23:42 #13 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-19 17:23:42 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:23:57 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' has been recovered (tr. 1-6)
+
+[2020-03-19 17:23:57 #2 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 3436@Marcos
+
+[2020-03-19 17:23:57 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:23:57 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:23:57 #5 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:23:57 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:23:57 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:26:21 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 16116@Marcos
+
+[2020-03-19 17:26:21 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:26:21 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:26:21 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:26:21 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:26:21 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:29:06 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 14404@Marcos
+
+[2020-03-19 17:29:06 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:29:06 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:29:06 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:29:06 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:29:06 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:29:22 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 1448@Marcos
+
+[2020-03-19 17:29:22 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:29:22 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:29:22 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:29:22 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:29:22 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:36:44 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 17804@Marcos
+
+[2020-03-19 17:36:44 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:36:44 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:36:44 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:36:44 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:36:44 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:37:08 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 17028@Marcos
+
+[2020-03-19 17:37:08 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:37:08 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:37:08 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:37:08 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:37:08 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:41:35 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 7124@Marcos
+
+[2020-03-19 17:41:35 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:41:35 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:41:35 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:41:35 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:41:35 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:45:42 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 16720@Marcos
+
+[2020-03-19 17:45:42 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:45:42 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:45:42 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:45:42 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:45:42 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:54:15 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 10784@Marcos
+
+[2020-03-19 17:54:15 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:54:15 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:54:15 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:54:15 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:54:15 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:55:51 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 9256@Marcos
+
+[2020-03-19 17:55:51 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:55:51 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:55:51 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:55:51 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:55:51 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:56:48 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 1812@Marcos
+
+[2020-03-19 17:56:48 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:56:48 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:56:48 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:56:48 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:56:48 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 17:59:33 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 17948@Marcos
+
+[2020-03-19 17:59:33 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 17:59:33 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 17:59:33 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 17:59:33 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 17:59:33 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 18:00:27 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 16124@Marcos
+
+[2020-03-19 18:00:27 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 18:00:27 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 18:00:27 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 18:00:27 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 18:00:27 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:14:44 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 7968@Marcos
+
+[2020-03-19 19:14:44 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:14:44 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:14:44 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:14:44 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:14:44 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:15:29 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 2332@Marcos
+
+[2020-03-19 19:15:29 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:15:29 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:15:29 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:15:29 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:15:29 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:34:41 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 1728@Marcos
+
+[2020-03-19 19:34:41 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:34:41 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:34:41 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:34:41 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:34:41 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:35:22 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 14700@Marcos
+
+[2020-03-19 19:35:22 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:35:22 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:35:22 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:35:22 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:35:22 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:42:15 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 5104@Marcos
+
+[2020-03-19 19:42:15 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:42:15 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:42:15 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:42:15 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:42:15 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:43:59 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 11656@Marcos
+
+[2020-03-19 19:43:59 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:43:59 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:43:59 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:43:59 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:43:59 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:46:25 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 11532@Marcos
+
+[2020-03-19 19:46:25 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:46:25 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:46:25 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:46:25 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:46:25 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:47:38 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 5408@Marcos
+
+[2020-03-19 19:47:38 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:47:38 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:47:38 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:47:38 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:47:38 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:51:40 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 18336@Marcos
+
+[2020-03-19 19:51:40 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:51:40 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:51:40 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:51:40 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:51:40 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:52:28 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 6352@Marcos
+
+[2020-03-19 19:52:28 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:52:28 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:52:28 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:52:28 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:52:28 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 19:53:08 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 14936@Marcos
+
+[2020-03-19 19:53:08 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 19:53:08 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 19:53:08 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 19:53:08 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 19:53:08 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:00:27 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 14516@Marcos
+
+[2020-03-19 20:00:27 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:00:27 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:00:27 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:00:27 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:00:27 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:01:12 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 11216@Marcos
+
+[2020-03-19 20:01:12 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:01:12 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:01:12 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:01:12 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:01:12 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:03:04 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 13040@Marcos
+
+[2020-03-19 20:03:04 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:03:04 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:03:04 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:03:04 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:03:04 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:08:16 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 17520@Marcos
+
+[2020-03-19 20:08:16 #2 type.registry] 
+New type domain.Usuario
+
+[2020-03-19 20:08:16 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:08:16 #4 type.registry] 
+New type domain.Monedero
+
+[2020-03-19 20:08:16 #5 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:08:16 #6 type.registry] 
+New type domain.Question
+
+[2020-03-19 20:08:16 #7 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:08:16 #8 type.registry] 
+New type domain.Pronostico
+
+[2020-03-19 20:08:16 #9 type.registry] 
+New type java.util.Vector<domain.Pronostico>
+
+[2020-03-19 20:08:16 #10 type.registry] 
+New type domain.Event
+
+[2020-03-19 20:08:16 #11 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:08:16 #12 type] 
+Type domain.Event is not enhanced.
+
+[2020-03-19 20:08:16 #13 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-03-19 20:08:16 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:09:11 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 18056@Marcos
+
+[2020-03-19 20:09:12 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:09:12 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:09:12 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:09:12 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:09:12 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:15:17 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 17596@Marcos
+
+[2020-03-19 20:15:17 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:15:17 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:15:17 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:15:17 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:15:17 #6 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:15:36 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' has been recovered (tr. 8-8)
+
+[2020-03-19 20:15:36 #2 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 7840@Marcos
+
+[2020-03-19 20:15:36 #3 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:15:36 #4 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:15:36 #5 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:15:36 #6 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:15:36 #7 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-03-19 20:29:54 #1 store] 
+Database 'C:\Users\marko\OneDrive\Documentos\GitHub\IS\Bets\resources\bets.temp' is opened by 15724@Marcos
+
+[2020-03-19 20:29:54 #2 type] 
+Type domain.Usuario is not enhanced.
+
+[2020-03-19 20:29:54 #3 type] 
+Type domain.Monedero is not enhanced.
+
+[2020-03-19 20:29:54 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-03-19 20:29:54 #5 type] 
+Type domain.Pronostico is not enhanced.
+
+[2020-03-19 20:29:54 #6 type] 
+Type domain.Event is not enhanced.
+
